@@ -1,0 +1,14 @@
+C:\Users\Gaspar\source\repos\ServiciosBack\ServiciosBack\bin\Debug\net8.0\ServiciosBack.deps.json
+C:\Users\Gaspar\source\repos\ServiciosBack\ServiciosBack\bin\Debug\net8.0\ServiciosBack.dll
+C:\Users\Gaspar\source\repos\ServiciosBack\ServiciosBack\bin\Debug\net8.0\ServiciosBack.pdb
+C:\Users\Gaspar\source\repos\ServiciosBack\ServiciosBack\obj\Debug\net8.0\ServiciosBack.csproj.AssemblyReference.cache
+C:\Users\Gaspar\source\repos\ServiciosBack\ServiciosBack\obj\Debug\net8.0\ServiciosBack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gaspar\source\repos\ServiciosBack\ServiciosBack\obj\Debug\net8.0\ServiciosBack.AssemblyInfoInputs.cache
+C:\Users\Gaspar\source\repos\ServiciosBack\ServiciosBack\obj\Debug\net8.0\ServiciosBack.AssemblyInfo.cs
+C:\Users\Gaspar\source\repos\ServiciosBack\ServiciosBack\obj\Debug\net8.0\ServiciosBack.csproj.CoreCompileInputs.cache
+C:\Users\Gaspar\source\repos\ServiciosBack\ServiciosBack\obj\Debug\net8.0\ServiciosBack.dll
+C:\Users\Gaspar\source\repos\ServiciosBack\ServiciosBack\obj\Debug\net8.0\refint\ServiciosBack.dll
+C:\Users\Gaspar\source\repos\ServiciosBack\ServiciosBack\obj\Debug\net8.0\ServiciosBack.pdb
+C:\Users\Gaspar\source\repos\ServiciosBack\ServiciosBack\obj\Debug\net8.0\ref\ServiciosBack.dll
+C:\Users\Gaspar\source\repos\ServiciosBack\ServiciosBack\bin\Debug\net8.0\ServiciosBack.runtimeconfig.json
+C:\Users\Gaspar\source\repos\ServiciosBack\ServiciosBack\obj\Debug\net8.0\ServiciosBack.genruntimeconfig.cache

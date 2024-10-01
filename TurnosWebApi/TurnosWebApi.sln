@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TurnosWebAPI", "TurnosWebAPI\TurnosWebAPI.csproj", "{7CC2867A-789F-4E7A-ABCA-9B9F840A1CEE}"
+	ProjectSection(ProjectDependencies) = postProject
+		{150AFF66-5544-42E5-A583-4EED5D648857} = {150AFF66-5544-42E5-A583-4EED5D648857}
+		{2C993B3B-7C72-41A4-89E8-192E198B1C7D} = {2C993B3B-7C72-41A4-89E8-192E198B1C7D}
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TurnosBack", "..\TurnosBack\TurnosBack\TurnosBack.csproj", "{2C993B3B-7C72-41A4-89E8-192E198B1C7D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ServiciosBack", "..\ServiciosBack\ServiciosBack\ServiciosBack.csproj", "{150AFF66-5544-42E5-A583-4EED5D648857}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7CC2867A-789F-4E7A-ABCA-9B9F840A1CEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CC2867A-789F-4E7A-ABCA-9B9F840A1CEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CC2867A-789F-4E7A-ABCA-9B9F840A1CEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CC2867A-789F-4E7A-ABCA-9B9F840A1CEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C993B3B-7C72-41A4-89E8-192E198B1C7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C993B3B-7C72-41A4-89E8-192E198B1C7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C993B3B-7C72-41A4-89E8-192E198B1C7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C993B3B-7C72-41A4-89E8-192E198B1C7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{150AFF66-5544-42E5-A583-4EED5D648857}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{150AFF66-5544-42E5-A583-4EED5D648857}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{150AFF66-5544-42E5-A583-4EED5D648857}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{150AFF66-5544-42E5-A583-4EED5D648857}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9D55C9B1-2163-430C-ADD1-99EA50EA9D2B}
+	EndGlobalSection
+EndGlobal
